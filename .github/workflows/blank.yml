@@ -36,4 +36,4 @@ jobs:
       # Step 4: Variables abiertas
       - name: variables abiertas
         run: |
-          echo "Versión de mi proyecto: $VERSION_PROYECTO"
+          echo "Versión de mi proyecto: $Version_P"royecto
