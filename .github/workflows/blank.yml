@@ -12,7 +12,7 @@ jobs:
     env:
       NOMBRES: "Ander"
       APELLIDOS: "Sanchez"
-      EDAD: "32"
+      EDAD: ""
       VERSION_PROYECTO: "3.0"
 
     steps:
